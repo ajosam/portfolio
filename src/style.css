@@ -11,7 +11,7 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #f7ca55;
 }
 
 .purple {
@@ -155,7 +155,7 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
+  /* height: 1.4em !important; */
   width: 2.5em !important;
 }
 
@@ -281,17 +281,18 @@ button:focus {
 }
 
 .main-name {
-  color: #cd5ff8;
+  /* color: #cd5ff8; */
+  color: #f7ca55;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #f7ca55 !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #f7ca55 !important;
 }
 
 @media (max-width: 767px) {
