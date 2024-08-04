@@ -81,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href=""
+                  href="https://www.linkedin.com/in/ajo-sam-39b481147/"
                   style={{ color: "white" }}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -90,7 +90,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href=""
                   target="_blank"
@@ -99,7 +99,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
